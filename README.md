@@ -1,4 +1,3 @@
-## Farcasanu Bianca Ioana 313CA 2023-2024
 
 # CACHE
 Pentru aceasta prima parte a programului am adaugat functiile (operatiile)
